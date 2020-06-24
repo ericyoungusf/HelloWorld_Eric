@@ -6,7 +6,9 @@ namespace HelloWorld_Rameez
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Activity fot in-class Github exercise!");
             Console.WriteLine("Hello World!");
+
         }
     }
 }
