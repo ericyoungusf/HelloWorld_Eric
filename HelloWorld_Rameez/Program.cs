@@ -9,6 +9,7 @@ namespace HelloWorld_Eric
             Console.WriteLine("Activity in-class Github exercise!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World by Rameez!");
+            Console.WriteLine("Hello World by Neelima");
 
         }
     }
